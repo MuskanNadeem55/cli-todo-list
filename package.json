@@ -1,6 +1,6 @@
 {
-  "name": "cli-todo-list",
-  "version": "1.0.0",
+  "name": "@muskan_nadeem/cli-todo-list",
+  "version": "2.1.1",
   "description": "",
   "main": "index.js",
   "type": "module",
